@@ -147,7 +147,7 @@ https://www.guru99.com/er-modeling.html
 |--------	|---------	|-----	|-------------	|
 | id     	| INT     	| PK  	| Primary Key 	|
 | name   	| VARCHAR 	|     	| ชื่อกลุ่มผู้ใช้    	|
-![enter image description here](https://i.imgur.com/xoqK9vt.png)
+
 
 ##### - User : ผู้ใช้งาน
 
@@ -160,7 +160,6 @@ https://www.guru99.com/er-modeling.html
 | email      	| VARCHAR  	|     	| อีเมล์                  	|
 | created_at 	| DATETIME 	|     	| วันที่เพิ่มรายการ          	|
 
-![enter image description here](https://i.imgur.com/a1iXITw.png)
 
 ### Basic SQL
 
