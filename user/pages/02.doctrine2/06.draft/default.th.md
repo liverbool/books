@@ -7,9 +7,6 @@ http://www.mehdi-khalili.com/orm-anti-patterns-series
 
 
 # Chapter 1 : Back to School
-## Relational database 101
-## OOP
-## Domain Model
 
 
 ## Relational database 101
