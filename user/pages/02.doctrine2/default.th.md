@@ -15,13 +15,13 @@ taxonomy:
 
 ## Table of Content
 
-[Draft Version](/doctrine2/draft)
+[Draft Version](06.draft)
 
 ### Chapter 1 : Back to School
 
-  - [Relational database 101](/doctrine2/chapter-1-back-to-school/relational-database-101)
-    - [Foundational](/doctrine2/chapter-1-back-to-school/relational-database-101/foundational)
-    - [Relational](/doctrine2/chapter-1-back-to-school/relational-database-101/relational)
+  - [Relational database 101](01.chapter-1-back-to-school/01.relational-database-101)
+    - [Foundational](01.chapter-1-back-to-school/relational-database-101/01.foundational)
+    - [Relational](01.chapter-1-back-to-school/relational-database-101/02.relational)
       1. Primary Key
       2. Foreign Key
       3. Cardinality
