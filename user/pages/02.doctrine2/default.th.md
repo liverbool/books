@@ -76,9 +76,9 @@ taxonomy:
     - Domain Model Thinking
   - ORM Concept
   - Abstract Architecture
-  - Instrallation
+  - Installation
   - Mapping
-  - Assocation
+  - Association
   - Managing
     - Architecture
       - Entity
@@ -89,12 +89,11 @@ taxonomy:
 
 ### Chapter 4 : Doctrine 2 in Depth
   - Inheritance
-  - DQL Custome Type
+  - DQL Custom Type
   - DQL Custom Function
   - Extensions
   - UnitOfWork
   - Caching
   - Command line Tools
+
 ### Chapter 5 : Best Practice & Performance
-
-
